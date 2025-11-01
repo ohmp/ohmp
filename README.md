@@ -26,7 +26,7 @@
 
 | Year | Role / Focus | Highlights |
 |------|---------------|-------------|
-| 🟢 **2015–2018** | Android Developer | Built apps from idea to store launch (100+ apps) |
+| 🟢 **2012–2018** | Android Developer | Built apps from idea to store launch (100+ apps) |
 | 🔵 **2019–2021** | Cross-Platform Expert | Flutter & React Native lead — optimized app ecosystems |
 | 🟣 **2022–Present** | AI/ML Architect | Building LLM-powered systems, infra automation & AI agents |
 
